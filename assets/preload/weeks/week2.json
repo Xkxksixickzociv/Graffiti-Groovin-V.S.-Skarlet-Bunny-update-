@@ -1,22 +1,59 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		[
+			"sinister",
+			"spo",
+			[
+				226,
+				233,
+				255
+			]
+		],
+		[
+			"bunboxxin",
+			"matt",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"philly-nice",
+			"pico",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ignited",
+			"darnell",
+			[
+				255,
+				233,
+				255
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
