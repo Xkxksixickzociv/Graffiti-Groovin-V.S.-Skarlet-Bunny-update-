@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crowd.png">
+<SubTexture name="boppers0000" x="0" y="0" width="2029" height="791" frameX="-16" frameY="-21" frameWidth="2071" frameHeight="813" />
+<SubTexture name="boppers0001" x="0" y="791" width="2029" height="792" frameX="-12" frameY="-13" frameWidth="2071" frameHeight="813" />
+<SubTexture name="boppers0002" x="0" y="1583" width="2029" height="797" frameX="-16" frameY="-2" frameWidth="2071" frameHeight="813" />
+<SubTexture name="boppers0003" x="0" y="2380" width="2057" height="795" frameX="-3" frameY="0" frameWidth="2071" frameHeight="813" />
+<SubTexture name="boppers0004" x="0" y="2380" width="2057" height="795" frameX="0" frameY="0" frameWidth="2071" frameHeight="813" />
+<SubTexture name="boppers0005" x="0" y="3175" width="2065" height="793" frameX="-1" frameY="-1" frameWidth="2071" frameHeight="813" />
+</TextureAtlas>
