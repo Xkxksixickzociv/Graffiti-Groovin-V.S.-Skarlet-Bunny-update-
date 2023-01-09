@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nene.png">
+<SubTexture name="nene bop0000" x="0" y="479" width="397" height="470" frameX="-5" frameY="-8" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0001" x="0" y="479" width="397" height="470" frameX="-5" frameY="-8" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0002" x="794" y="0" width="396" height="475" frameX="-8" frameY="-4" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0003" x="794" y="0" width="396" height="475" frameX="-7" frameY="-3" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0004" x="794" y="0" width="396" height="475" frameX="-7" frameY="-3" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0005" x="794" y="0" width="396" height="475" frameX="-7" frameY="-3" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0006" x="397" y="0" width="397" height="477" frameX="-1" frameY="-2" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0007" x="397" y="0" width="397" height="477" frameX="-1" frameY="-2" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0008" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0009" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0010" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0011" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0012" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+<SubTexture name="nene bop0013" x="0" y="0" width="397" height="479" frameX="0" frameY="0" frameWidth="404" frameHeight="479" />
+</TextureAtlas>

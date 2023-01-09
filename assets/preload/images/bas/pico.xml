@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico.png">
+<SubTexture name="pico bop0000" x="332" y="0" width="334" height="411" frameX="-2" frameY="-6" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0001" x="332" y="0" width="334" height="411" frameX="-2" frameY="-6" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0002" x="0" y="0" width="332" height="417" frameX="0" frameY="0" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0003" x="0" y="0" width="332" height="417" frameX="0" frameY="0" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0004" x="0" y="0" width="332" height="417" frameX="0" frameY="0" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0005" x="0" y="0" width="332" height="417" frameX="0" frameY="0" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0006" x="0" y="417" width="336" height="407" frameX="-10" frameY="-10" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0007" x="0" y="417" width="336" height="407" frameX="-10" frameY="-10" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0008" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0009" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0010" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0011" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0012" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+<SubTexture name="pico bop0013" x="666" y="0" width="337" height="408" frameX="-12" frameY="-9" frameWidth="349" frameHeight="417" />
+</TextureAtlas>
