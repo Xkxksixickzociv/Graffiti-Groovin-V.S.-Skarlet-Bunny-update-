@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CROWD.png">
+<SubTexture name="CROWD idle0000" x="0" y="0" width="1002" height="451" frameX="-3" frameY="-9" frameWidth="999" frameHeight="452" />
+<SubTexture name="CROWD idle0001" x="0" y="451" width="998" height="453" frameX="-6" frameY="0" frameWidth="999" frameHeight="452" />
+<SubTexture name="CROWD idle0002" x="0" y="904" width="1006" height="452" frameX="0" frameY="-3" frameWidth="999" frameHeight="452" />
+<SubTexture name="CROWD idle0003" x="0" y="1356" width="1007" height="451" frameX="0" frameY="-3" frameWidth="999" frameHeight="452" />
+<SubTexture name="CROWD idle0004" x="0" y="1807" width="1007" height="451" frameX="0" frameY="-3" frameWidth="999" frameHeight="452" />
+<SubTexture name="CROWD idle0005" x="0" y="2258" width="1007" height="451" frameX="0" frameY="-3" frameWidth="999" frameHeight="452" />
+</TextureAtlas>
