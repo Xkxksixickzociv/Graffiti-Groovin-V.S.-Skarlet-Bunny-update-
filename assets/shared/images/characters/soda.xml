@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skarlet_soda.png">
+<SubTexture name="down0000" x="3103" y="2163" width="357" height="642" frameX="-3" frameY="-4" frameWidth="362" frameHeight="647" />
+<SubTexture name="down0001" x="3103" y="2163" width="357" height="642" frameX="-3" frameY="-4" frameWidth="362" frameHeight="647" />
+<SubTexture name="down0002" x="1893" y="2964" width="362" height="646" frameX="0" frameY="-1" frameWidth="362" frameHeight="647" />
+<SubTexture name="down0003" x="1893" y="2964" width="362" height="646" frameX="0" frameY="-1" frameWidth="362" frameHeight="647" />
+<SubTexture name="down0004" x="1531" y="2964" width="362" height="647" frameX="0" frameY="0" frameWidth="362" frameHeight="647" />
+<SubTexture name="down0005" x="1531" y="2964" width="362" height="647" frameX="0" frameY="0" frameWidth="362" frameHeight="647" />
+<SubTexture name="idle0000" x="395" y="2964" width="373" height="720" frameX="0" frameY="-1" frameWidth="385" frameHeight="733" />
+<SubTexture name="idle0001" x="3464" y="1454" width="365" height="724" frameX="-7" frameY="2" frameWidth="385" frameHeight="733" />
+<SubTexture name="idle0002" x="3464" y="0" width="366" height="727" frameX="-8" frameY="5" frameWidth="385" frameHeight="733" />
+<SubTexture name="idle0003" x="2251" y="733" width="368" height="731" frameX="-5" frameY="9" frameWidth="385" frameHeight="733" />
+<SubTexture name="idle0004" x="2671" y="733" width="373" height="732" frameX="0" frameY="10" frameWidth="385" frameHeight="733" />
+<SubTexture name="left0000" x="2518" y="2231" width="393" height="728" frameX="0" frameY="-3" frameWidth="393" frameHeight="731" />
+<SubTexture name="left0001" x="2518" y="2231" width="393" height="728" frameX="0" frameY="-3" frameWidth="393" frameHeight="731" />
+<SubTexture name="left0002" x="835" y="2231" width="377" height="730" frameX="-14" frameY="-1" frameWidth="393" frameHeight="731" />
+<SubTexture name="left0003" x="835" y="2231" width="377" height="730" frameX="-14" frameY="-1" frameWidth="393" frameHeight="731" />
+<SubTexture name="left0004" x="2251" y="1464" width="376" height="731" frameX="-15" frameY="0" frameWidth="393" frameHeight="731" />
+<SubTexture name="left0005" x="2251" y="1464" width="376" height="731" frameX="-15" frameY="0" frameWidth="393" frameHeight="731" />
+<SubTexture name="right0000" x="3464" y="2178" width="359" height="720" frameX="0" frameY="0" frameWidth="360" frameHeight="720" />
+<SubTexture name="right0001" x="3464" y="2178" width="359" height="720" frameX="0" frameY="0" frameWidth="360" frameHeight="720" />
+<SubTexture name="right0002" x="3103" y="728" width="351" height="718" frameX="0" frameY="-2" frameWidth="360" frameHeight="720" />
+<SubTexture name="right0003" x="3103" y="728" width="351" height="718" frameX="0" frameY="-2" frameWidth="360" frameHeight="720" />
+<SubTexture name="right0004" x="3103" y="1446" width="350" height="717" frameX="0" frameY="-3" frameWidth="360" frameHeight="720" />
+<SubTexture name="right0005" x="3103" y="1446" width="350" height="717" frameX="0" frameY="-3" frameWidth="360" frameHeight="720" />
+<SubTexture name="soda open0000" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0001" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0002" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0003" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0004" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0005" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0006" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0007" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0008" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0009" x="2671" y="1465" width="322" height="732" frameX="-70" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0010" x="1846" y="734" width="321" height="733" frameX="-71" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0011" x="1846" y="734" width="321" height="733" frameX="-71" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0012" x="1508" y="763" width="314" height="730" frameX="-78" frameY="-4" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0013" x="1508" y="763" width="314" height="730" frameX="-78" frameY="-4" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0014" x="0" y="1498" width="351" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0015" x="0" y="1498" width="351" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0016" x="351" y="1498" width="367" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0017" x="351" y="1498" width="367" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0018" x="718" y="1498" width="366" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0019" x="718" y="1498" width="366" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0020" x="371" y="763" width="366" height="734" frameX="-81" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0021" x="371" y="763" width="366" height="734" frameX="-81" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0022" x="737" y="763" width="366" height="734" frameX="-81" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0023" x="737" y="763" width="366" height="734" frameX="-81" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0024" x="1114" y="0" width="366" height="735" frameX="-81" frameY="0" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0025" x="1480" y="0" width="366" height="735" frameX="-81" frameY="0" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0026" x="1084" y="1498" width="394" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0027" x="1103" y="763" width="405" height="734" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0028" x="1846" y="0" width="405" height="734" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0029" x="1478" y="1498" width="420" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0030" x="2251" y="0" width="420" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0031" x="2671" y="0" width="432" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0032" x="0" y="2231" width="451" height="733" frameX="-81" frameY="-2" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0033" x="1212" y="2231" width="461" height="729" frameX="-81" frameY="-6" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0034" x="1673" y="2231" width="458" height="729" frameX="-81" frameY="-6" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0035" x="0" y="763" width="371" height="735" frameX="-19" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0036" x="0" y="763" width="371" height="735" frameX="-19" frameY="-1" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0037" x="0" y="2964" width="395" height="726" frameX="0" frameY="-9" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0038" x="0" y="2964" width="395" height="726" frameX="0" frameY="-9" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0039" x="2131" y="2231" width="387" height="729" frameX="-10" frameY="-6" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0040" x="2131" y="2231" width="387" height="729" frameX="-10" frameY="-6" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0041" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0042" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0043" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0044" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0045" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0046" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0047" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0048" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0049" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0050" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0051" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0052" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0053" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0054" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0055" x="451" y="2231" width="384" height="731" frameX="-13" frameY="-5" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0056" x="1132" y="2964" width="399" height="715" frameX="-3" frameY="-19" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0057" x="1132" y="2964" width="399" height="715" frameX="-3" frameY="-19" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0058" x="768" y="2964" width="364" height="718" frameX="-77" frameY="-16" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0059" x="768" y="2964" width="364" height="718" frameX="-77" frameY="-16" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0060" x="3464" y="727" width="361" height="727" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0061" x="3464" y="727" width="361" height="727" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0062" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0063" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0064" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0065" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0066" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0067" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0068" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0069" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0070" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0071" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0072" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0073" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0074" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0075" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0076" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0077" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0078" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0079" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0080" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0081" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="soda open0082" x="3103" y="0" width="361" height="728" frameX="-78" frameY="-7" frameWidth="542" frameHeight="736" />
+<SubTexture name="up0000" x="0" y="0" width="376" height="763" frameX="0" frameY="0" frameWidth="379" frameHeight="764" />
+<SubTexture name="up0001" x="0" y="0" width="376" height="763" frameX="0" frameY="0" frameWidth="379" frameHeight="764" />
+<SubTexture name="up0002" x="376" y="0" width="369" height="758" frameX="-9" frameY="-5" frameWidth="379" frameHeight="764" />
+<SubTexture name="up0003" x="376" y="0" width="369" height="758" frameX="-9" frameY="-5" frameWidth="379" frameHeight="764" />
+<SubTexture name="up0004" x="745" y="0" width="369" height="757" frameX="-10" frameY="-6" frameWidth="379" frameHeight="764" />
+<SubTexture name="up0005" x="745" y="0" width="369" height="757" frameX="-10" frameY="-6" frameWidth="379" frameHeight="764" />
+</TextureAtlas>
