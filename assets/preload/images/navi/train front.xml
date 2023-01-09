@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="train front.png">
+<SubTexture name="train front idle0000" x="0" y="886" width="1000" height="438" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0001" x="1000" y="0" width="1000" height="439" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0002" x="1000" y="886" width="1000" height="438" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0003" x="1000" y="439" width="1000" height="439" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0004" x="0" y="1324" width="1000" height="438" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0005" x="0" y="0" width="1000" height="443" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+<SubTexture name="train front idle0006" x="0" y="443" width="1000" height="443" frameX="0" frameY="0" frameWidth="1000" frameHeight="443" />
+</TextureAtlas>

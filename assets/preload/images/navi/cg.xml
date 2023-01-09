@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cg.png">
+<SubTexture name="legs loop0000" x="0" y="450" width="399" height="214" frameX="0" frameY="-10" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0001" x="0" y="450" width="399" height="214" frameX="0" frameY="-10" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0002" x="296" y="229" width="298" height="210" frameX="-47" frameY="-32" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0003" x="296" y="229" width="298" height="210" frameX="-47" frameY="-32" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0004" x="0" y="229" width="296" height="221" frameX="-55" frameY="-11" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0005" x="0" y="229" width="296" height="221" frameX="-55" frameY="-11" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0006" x="686" y="0" width="354" height="207" frameX="-48" frameY="0" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0007" x="686" y="0" width="354" height="207" frameX="-48" frameY="0" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0008" x="0" y="0" width="389" height="229" frameX="-16" frameY="-4" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0009" x="0" y="0" width="389" height="229" frameX="-16" frameY="-4" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0010" x="686" y="207" width="305" height="202" frameX="-43" frameY="-38" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0011" x="686" y="207" width="305" height="202" frameX="-43" frameY="-38" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0012" x="389" y="0" width="297" height="229" frameX="-59" frameY="-10" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0013" x="389" y="0" width="297" height="229" frameX="-59" frameY="-10" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0014" x="0" y="664" width="355" height="207" frameX="-48" frameY="-1" frameWidth="405" frameHeight="242" />
+<SubTexture name="legs loop0015" x="0" y="664" width="355" height="207" frameX="-48" frameY="-1" frameWidth="405" frameHeight="242" />
+</TextureAtlas>

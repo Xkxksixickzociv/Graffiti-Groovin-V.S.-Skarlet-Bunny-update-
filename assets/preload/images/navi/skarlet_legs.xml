@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skarlet_legs.png">
+<SubTexture name="legs loop0000" x="310" y="0" width="457" height="274" frameX="-6" frameY="-16" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0001" x="310" y="0" width="457" height="274" frameX="-6" frameY="-16" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0002" x="343" y="276" width="332" height="247" frameX="-60" frameY="-55" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0003" x="343" y="276" width="332" height="247" frameX="-60" frameY="-55" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0004" x="0" y="276" width="343" height="274" frameX="-73" frameY="-23" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0005" x="0" y="276" width="343" height="274" frameX="-73" frameY="-23" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0006" x="0" y="550" width="459" height="237" frameX="-29" frameY="0" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0007" x="0" y="550" width="459" height="237" frameX="-29" frameY="0" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0008" x="767" y="0" width="451" height="274" frameX="0" frameY="-11" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0009" x="767" y="0" width="451" height="274" frameX="0" frameY="-11" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0010" x="767" y="274" width="298" height="270" frameX="-83" frameY="-29" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0011" x="767" y="274" width="298" height="270" frameX="-85" frameY="-29" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0012" x="0" y="0" width="310" height="276" frameX="-76" frameY="-23" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0013" x="0" y="0" width="310" height="276" frameX="-76" frameY="-23" frameWidth="488" frameHeight="302" />
+<SubTexture name="legs loop0014" x="459" y="550" width="432" height="235" frameX="-46" frameY="-23" frameWidth="488" frameHeight="302" />
+</TextureAtlas>
