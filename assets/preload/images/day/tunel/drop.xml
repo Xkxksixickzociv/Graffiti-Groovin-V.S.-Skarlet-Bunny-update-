@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="drop_bg.png">
+<SubTexture name="tunnel loop0000" x="0" y="0" width="1349" height="711" frameX="-242" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0001" x="1349" y="0" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0002" x="0" y="711" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0003" x="1186" y="711" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0004" x="0" y="1422" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0005" x="1186" y="1422" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0006" x="0" y="2133" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0007" x="1186" y="2133" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0008" x="0" y="2844" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+<SubTexture name="tunnel loop0009" x="1186" y="2844" width="1186" height="711" frameX="-331" frameY="0" frameWidth="1842" frameHeight="791" />
+</TextureAtlas>

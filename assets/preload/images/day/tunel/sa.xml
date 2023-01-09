@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="olabeb.png">
+<SubTexture name="olabeb idle0000" x="0" y="474" width="1920" height="473" frameX="0" frameY="0" frameWidth="1920" frameHeight="474" />
+<SubTexture name="olabeb idle0001" x="0" y="947" width="1920" height="470" frameX="0" frameY="0" frameWidth="1920" frameHeight="474" />
+<SubTexture name="olabeb idle0002" x="0" y="0" width="1920" height="474" frameX="0" frameY="0" frameWidth="1920" frameHeight="474" />
+<SubTexture name="olabeb idle0003" x="0" y="1417" width="1920" height="469" frameX="0" frameY="-5" frameWidth="1920" frameHeight="474" />
+</TextureAtlas>
